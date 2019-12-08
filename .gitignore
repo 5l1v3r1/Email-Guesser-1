@@ -1,0 +1,5 @@
+*.command
+STL Files
+Dependencies.txt
+*.xlsx
+.DS_Store
